@@ -1,3 +1,3 @@
 # js-9vhsym
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-9vhsym)
+[Edit on WBSOFT ⚡️](https://github.com/boubechtoula/float-and-display-in-css)
